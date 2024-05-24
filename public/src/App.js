@@ -4,6 +4,7 @@ import SetAvatar from "./components/SetAvatar";
 import Chat from "./pages/Chat";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+export const BackendUrl ="https://chat-app-h8p2.onrender.com/";
 export default function App() {
   return (
     <BrowserRouter>
